@@ -1,10 +1,10 @@
 package services
 
 import (
-	"app-example/src/config"
-	"app-example/src/domain/entities"
-	"app-example/src/domain/services"
 	"encoding/json"
+	"exchange-apps-hello-world/src/config"
+	"exchange-apps-hello-world/src/domain/entities"
+	"exchange-apps-hello-world/src/domain/services"
 	"fmt"
 	"io/ioutil"
 	"net/http"

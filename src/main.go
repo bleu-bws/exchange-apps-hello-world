@@ -1,7 +1,7 @@
 package main
 
 import (
-	"app-example/src/api"
+	"exchange-apps-hello-world/src/api"
 )
 
 func main() {

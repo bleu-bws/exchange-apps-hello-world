@@ -1,4 +1,4 @@
-# app-example
+# exchange-apps-hello-world
 
 ## create app
 ```

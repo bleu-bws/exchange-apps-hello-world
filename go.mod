@@ -1,4 +1,4 @@
-module app-example
+module exchange-apps-hello-world
 
 go 1.14
 

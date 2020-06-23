@@ -1,7 +1,7 @@
 package api
 
 import (
-	"app-example/src/api/controllers"
+	"exchange-apps-hello-world/src/api/controllers"
 	"log"
 	"os"
 	"os/signal"

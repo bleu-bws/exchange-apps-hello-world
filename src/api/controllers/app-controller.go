@@ -1,10 +1,10 @@
 package controllers
 
 import (
-	"app-example/src/config"
-	"app-example/src/domain/entities"
-	"app-example/src/infrastructure/services"
 	"encoding/json"
+	"exchange-apps-hello-world/src/config"
+	"exchange-apps-hello-world/src/domain/entities"
+	"exchange-apps-hello-world/src/infrastructure/services"
 	"fmt"
 	"net/http"
 
